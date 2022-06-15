@@ -1,0 +1,15 @@
+/* Config */
+@import url('config/_variables.css');
+@import url('config/_reset.css');
+
+/* Layouts */
+@import url('layouts/_container.css');
+@import url('layouts/_header.css');
+
+/* Components */
+@import url('components/_btn.css');
+@import url('components/_logo.css');
+
+body {
+    background: url('../invest.jpg') center/cover no-repeat;
+}
